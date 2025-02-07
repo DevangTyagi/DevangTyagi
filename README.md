@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devang Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently Working on **React**
 
 - 💬 Ask me about **CP, C++ ,DSA , JS**
 
